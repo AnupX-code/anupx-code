@@ -2,4 +2,4 @@
 
 - 🐍 [Snake Game](https://anupx-code.github.io/AnupOP/)
 
-**Explore my other repositories for more projects and apps I've built — more coming soon!**✌️
+<h4>Explore my other repositories for more projects and apps I've built — more coming soon!</h4>✌️
